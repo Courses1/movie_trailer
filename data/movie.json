@@ -1,0 +1,16 @@
+{
+  "movies": [
+    {
+      "title": "Toy Story",
+      "storyline": "A story of a boy and his toy",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+      "youtube_trailer_url": "https://www.youtube.com/watch?v=4KPTXpQehio"
+    },
+    {
+      "title": "Sing",
+      "storyline": "Singing Competition among birds",
+      "poster_image_url": "https://upload.wikimedia.org/wikipedia/en/b/bb/Sing_%282016_film%29_poster.jpg",
+      "youtube_trailer_url": "https://www.youtube.com/watch?v=9qPgK_u4vX8"
+    }
+  ]
+}
