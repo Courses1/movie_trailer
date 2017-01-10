@@ -19,11 +19,11 @@ This will start the server on 5000 port and then hit the `localhost:5000` in the
 
 ## Project structure
  
- #### API 
+ ### API 
  
  Currently there is just one api exposed, which is get for home page. It reads data from `movies.json`.
   
- #### Folder Structure
+ ### Folder Structure
   
    ```
    ├── data/
