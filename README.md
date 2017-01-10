@@ -17,12 +17,12 @@ Install dependencies: `pip install -r requirements.txt`
 
 This will start the server on 5000 port and then hit the `localhost:5000` in the browser.
 
-### Project structure
+## Project structure
  
- #### API 
+ ### API 
  Currently there is just one api exposed, which is get for home page. It reads data from `movies.json`.
   
- #### Folder Structure 
+ ### Folder Structure 
    ```
    ├── data/
    │   ├── movies.json                          # Movies json data
@@ -38,12 +38,9 @@ This will start the server on 5000 port and then hit the `localhost:5000` in the
    │── |   ├── styles                           # CSS style files 
    │── templates                                # As flask supports jinja templating, using that as template to render movies list            
    │- app.py                                    # From where the execution will begin                           
+  ```
+   
+If there is any issue, do raise it [here](https://github.com/Courses1/movie_trailer/issues).
+   
       
- 
-
-   
-   
-
-
-
-
+      
